@@ -1,0 +1,21 @@
+Política de privacidade
+E-Comerce-Malharias
+A presente Política de Privacidade descreve a forma como usamos e divulgamos os dados que coletamos de nossos clientes, quando utilizam nossos aplicativos.
+
+Caso remanesça alguma dúvida com relação à presente Política de Privacidade, pedimos que entre em contato conosco pelo e-mail ezequiel.wilhelm@gmail.com
+
+Dados a serem coletados:
+
+E-mail para cadastro de usuario via FireBase.
+
+Como coletamos os Dados do cliente:
+
+Ao solicitar nossos serviços, atravez de contratação.
+
+A senha criada pelo cliente para acesso aos aplicativos é secreta, ficando desde já ciente de que tal credencial de acesso é de uso exclusivo, pessoal e intransferível.
+
+Como utilizamos os Dados do Cliente:
+
+Utilizamos apenas para cadastro de e-mail e senha com a finalidade de efetuar login em nossos aplicativos.
+
+Utilizamos a plataforma FireBase para armazenar os Dados.
